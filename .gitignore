@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Visual Studio 2022
+.vs/
+x64/
+Release/
+Debug/
